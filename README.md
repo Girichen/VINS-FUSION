@@ -1,4 +1,4 @@
-# VINS-Fusion
+# VINS-Fusion_OPNECV4.6_cv_bridge_noetic_in_melodic_env
 ## An optimization-based multi-sensor state estimator
 
 <img src="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/blob/master/support_files/image/vins_logo.png" width = 55% height = 55% div align=left />
